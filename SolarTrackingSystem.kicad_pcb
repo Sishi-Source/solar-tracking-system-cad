@@ -75,7 +75,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 4)
+			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -1888,7 +1888,7 @@
 			)
 		)
 		(fp_text user "."
-			(at 62.484 -32.004 -0)
+			(at 62.484 -32.004 0)
 			(layer "B.SilkS")
 			(uuid "b222de62-a984-4fff-8700-6d976133421d")
 			(effects
