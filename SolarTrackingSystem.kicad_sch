@@ -54,16 +54,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "MPD"
+			(property "Description" "Battery Holder _Open_ Coin, 24.5mm 1 Cell PC Pin"
 				(at 0 0 0)
 				(effects
 					(font
@@ -73,7 +64,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "Battery Holder _Open_ Coin, 24.5mm 1 Cell PC Pin"
+			(property "MF" "MPD"
 				(at 0 0 0)
 				(effects
 					(font
