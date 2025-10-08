@@ -1,4 +1,4 @@
-# Solar Tracking System
+# Solar Tracking System [nickos]
 
 
 
